@@ -1,0 +1,143 @@
+ mkdir js
+  136  git init
+  137  touch js.txt
+  138  git add js.txt
+  139  git commit -m "js"
+  140  git status
+  141  git add js.txt
+  142  git commit -m "hello prema"
+  143  git status
+  144  git status
+  145  git add js.txt
+  146  git commit -m "my file is changed"
+  147  git status
+  148  git checkout js
+  149  history
+
+blakshmi@LIN65006259 MINGW64 /c/js assignments (master)
+$
+ mkdir css
+  136  git init
+  137  git status
+  138  git add css.txt
+  139  git add css.txt
+  140  git commit -m "my commit"
+  141  git status
+  142  git status
+  143  git commit -m "changed some text"
+  144  git add css.txt
+  145  git commit -m "changed"
+  146  gid add css.txt
+  147  git add css.txt
+  148  git commit -m "hi"
+  149  git status
+  150  history
+
+blakshmi@LIN65006259 MINGW64 /c/css assignments (master)
+$
+ 1  git --version
+    2  git help config
+    3  git help --help
+    4  mkdir test
+    5  cd test
+    6  git init
+    7  git status
+    8  git add demo.txt
+    9  git add demo
+   10  git add demo.txt
+   11  git commit -m "comitting a text file"
+   12  git config --global --edit
+   13  git --version
+   14  git help config
+   15  git --version
+   16  git help config
+   17  git config --help
+   18  mkdir test
+   19  mkdir test
+   20  git --version
+   21  git help config
+   22  git config --help
+   23  mkdir test
+   24  mkdir test
+   25  cd test
+   26  git init
+   27  git --version
+   28  git help config
+   29  git config --help
+   30  mkdir test
+   31  cd test
+   32  git init
+   33  git status
+   34  git add demo.txt
+   35  git commit -m "comitting a text file"
+   36  git config --global user.name "Lakshmisailaja"
+   37  git config --global user.email bommu.lakshmisailaja@capgemini.com
+   38  git commit --amend --reset-author
+   39  git --version
+   40  git help config
+   41  git config --help
+   42  mkdir test
+   43  git --version
+   44  git --version
+   45  git help config
+   46  git config --help
+   47  mkdir test
+   48  cd test
+   49  git init
+   50  git status
+   51  git --version
+   52  git help config
+   53  git config -- help
+   54  git config --help
+   55  mkdir test
+   56  get init
+   57  git init
+   58  git status
+   59  git status
+   60  git add demo.txt
+   61  git commit -m "comitting a text file"
+   62  git commit -m "comitting a text file"
+   63  git add demo.txt
+   64  git commit -m "comitting a text file"
+   65  git --version
+   66  git help config
+   67  git config --help
+   68  mkdir test
+   69  cd test
+   70  git init
+   71  git status
+   72  git status
+   73  git --version
+   74  git hep config
+   75  git help config
+   76  git config --help
+   77  mkdir test
+   78  cd test
+   79  git init
+   80  git status
+   81  git status
+   82  mkdir project_dir
+   83  git init
+   84  touch index.html
+   85  git init
+   86  touch index.html
+   87  git status
+   88  git add.
+   89  git add index.html
+   90  git commit -m "my commit"
+   91  git status
+   92  git add new textDocument.txt
+   93  git add New Text Document.txt
+   94  git add html.txt
+   95  git init
+   96  git commit -m "my file"
+   97  git status
+   98  git commit -m "my changed commit"
+   99  clear
+  100  git cofig --global user.username BOMMUREDDY59-github
+  101  git config --global user.username BOMMUREDDY59-github
+  102  git remote add origin https://github.com/BOMMUREDDY59/test_demo.git
+  103  git push origin master
+  104  git status
+  105  git add html.txt
+  106  git commit -m "my commit1"
